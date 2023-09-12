@@ -7,6 +7,7 @@
 </br>
 
 ## Redes Sociales 👨🏻‍💻📱
+<i>Follow me around the web:</i><br>
 <a href="mailto:edson.cardenas@vallegrande.edu.pe" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
@@ -25,4 +26,4 @@
 <a href="https://www.youtube.com/channel/UC5Cw7cPtjkRZCcq1cYeVuLg" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
 </a>
-<div>
+</div>
