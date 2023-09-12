@@ -3,24 +3,25 @@
 
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
-
+## Redes Sociales 🔎📧💬📫🔍
+<a href="mailto:edson.cardenas@vallegrande.edu.pe" target="_blank">
+<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
-</div>
+<a href="https://github.com/edsoncardenasarias" target="_blank">
+<img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+</a>
+<a href="https://www.linkedin.com/in/edson-cardenas-arias-9602771ab/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+<a href="https://www.facebook.com/profile.php?id=100004386580197" target="_blank">
+<img src="https://img.shields.io/badge/-FaceBook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
+</a>
+<a href="https://www.instagram.com/edson_jeanpierre_2000/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+</a>
+<a href="https://www.youtube.com/channel/UC5Cw7cPtjkRZCcq1cYeVuLg" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+</a>
+<div>
 
-<br>
-<br>
-<br>
 
------
-
-<br>
-<br>
--->
