@@ -1,3 +1,6 @@
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
+ </p>
 ### Hi there 👋
 
 ## Tecnologías🤖
