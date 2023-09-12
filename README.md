@@ -4,10 +4,8 @@
 
 ## Estadísticas de GitHub 📊📈📊
 <img src="https://github-readme-stats.vercel.app/api?username=edsoncardenasarias&show_icons=true&locale=es&role=OWNER,COLLABORATOR&theme=default" alt="edsoncardenasarias" style="width: 500px;"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=edsoncardenasarias&hide_border=false" alt="edsoncardenasarias" style="width: 500px;"/>
 
 </br>
-
 ## Redes Sociales 👨🏻‍💻📱
 <a href="mailto:edson.cardenas@vallegrande.edu.pe" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
