@@ -1,9 +1,9 @@
 ### Hi there 👋
 
+## Tecnologías🤖
 
 ## Estadísticas de GitHub 📊📈📊
 <img src="https://github-readme-stats.vercel.app/api?username=edsoncardenasarias&show_icons=true&locale=es&role=OWNER,COLLABORATOR&theme=default" alt="edsoncardenasarias" style="width: 500px;"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=edsoncardenasarias&hide_border=false" alt="edsoncardenasarias" style="width: 500px;"/>
 
 </br>
