@@ -19,7 +19,7 @@
 - 🏢 Soy de **Perú** 🟥⬜🟥
 - ⚙️ Yo uso a diario : `.java`, `.sprint`, `.angular` principalmente
 - 🌱 Actualmente estoy aprendiendo Docker , Kubernetes, Jenkins
-- 🌍 Soy principalmente activo dentro de la **comunidad de Java**
+- 🌍 Soy principalmente activo dentro de la **Java Community**
 - 👨🏻‍💻Me gusta aprender todo sobre el **Open Source**
 - ⚡ Lenguaje: Ingles (Intermedio)
 
