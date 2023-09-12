@@ -1,9 +1,20 @@
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
- </p>
+</p>
+ 
 ### Hi there 👋
 
 ## Tecnologías🤖
+
+## Trofeos GitHub ✔🏆🥇
+<img src="https://github-profile-trophy.vercel.app/api/?username=juancondorijara&locale=es" alt="juancondorijara"/>
+
+</br>
+
+## Lenguajes más Usados ☕✨📑
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsoncardenasarias&locale=es&layout=compact&langs_count=10&role=OWNER,COLLABORATOR&theme=default" alt="edsoncardenasarias" style="width: 500px;"/>
+
+</br>
 
 ## Estadísticas de GitHub 📊📈📊
 <img src="https://github-readme-stats.vercel.app/api?username=edsoncardenasarias&show_icons=true&locale=es&role=OWNER,COLLABORATOR&theme=default" alt="edsoncardenasarias" style="width: 500px;"/>
