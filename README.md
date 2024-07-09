@@ -68,7 +68,7 @@
     ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
     ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
     ![SonarCloud](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
-    ![Neon](![image](https://github.com/edsoncardenasarias/edsoncardenasarias/assets/72884555/a78f4173-4662-44a8-8254-a72f26819b2d)
+    
 
     
 <br>
