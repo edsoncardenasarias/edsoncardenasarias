@@ -24,7 +24,7 @@
 
 <p align="center">
 
-- **Lenguajes de Programación**:
+- **Code language**:
   
     ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -34,7 +34,7 @@
 
 <br>
 
-- **Desarrollo Front-End**:
+- **Front-End Development**:
   
     ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -44,7 +44,7 @@
 
 <br>
 
-- **Base de Datos**:
+- **Data Bases**:
   
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -62,7 +62,7 @@
   
  <br>
 
-- **Software y herramientas**:
+- **Software and tools**:
   
     ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
     ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -84,17 +84,17 @@
 
 <br>
 
-## Lenguajes más Usados ☕✨📑
+## Most Used Languages ☕✨📑
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsoncardenasarias&locale=es&layout=compact&langs_count=10&role=OWNER,COLLABORATOR&theme=default" alt="edsoncardenasarias" style="width: 500px;"/>
 
 <br>
 
-## Estadísticas de GitHub 📊📈📊
+## GitHub Statistics 📊📈📊
 <img src="https://github-readme-stats.vercel.app/api?username=edsoncardenasarias&show_icons=true&locale=es&role=OWNER,COLLABORATOR&theme=default" alt="edsoncardenasarias" style="width: 500px;"/>
 <br>
 
-## Redes Sociales 👨🏻‍💻📱
-<i>Sígueme por la web:</i><br>
+## Social networks 👨🏻‍💻📱
+<i>Follow me on the web:</i><br>
 <a href="mailto:edson.cardenas@vallegrande.edu.pe" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
@@ -111,10 +111,7 @@
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
 
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=edsoncardenasarias.edsoncardenasarias" alt="Total de Visitas en el Perfil" style="max-width:100%;">
-</p>
-
+## Total de Visitas en el Perfil 🔍👨‍💻✔
+<img src="https://profile-counter.glitch.me/edsoncardenasarias/count.svg"/>
 
 ¡Gracias por visitar mi perfil!
