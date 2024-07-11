@@ -132,3 +132,6 @@
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
 </a>
 </div>
+
+## Total de Visitas en el Perfil 🔍👨‍💻✔
+<img src="https://profile-counter.glitch.me/edsoncardenasarias/count.svg"/>
