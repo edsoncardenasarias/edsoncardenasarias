@@ -1,25 +1,22 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aquarius-blake&label=Profile%20views&color=0e75b6&style=flat" alt="aquarius-blake" /> </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFF00&random=false&width=500&height=40&lines=Hello,+I'm+Edson+Cárdenas+Arias!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99" alt="Typing SVG"/>
+  </a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
-
-<h1 align="center">Hi there, I'm Edson Cárdenas Arias</h1>
 
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **Acerca de mí**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
-
-- 🏢 Soy de **Perú** 🟥⬜🟥
+- 🏢 Soy de **Perú** 🟥⬜🟥<img align="right" alt="GIF" src="https://github.com/Aquarius-blake/Images/blob/main/Profile/gifs/programmer.gif" width="350" />
 - ⚙️ Yo uso a diario: `.java`, `.spring`, `.angular` principalmente
 - 🌱 Actualmente estoy aprendiendo Docker, Kubernetes, Jenkins
-- 🌍 Soy principalmente activo dentro de la **Java Community**
+- 🌍 Soy principalmente activo dentro de la **Java Community** 
 - 👨🏻‍💻 Me gusta aprender todo sobre el **Open Source**
 - 📫 Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/edson-jeanpierre-c%C3%A1rdenas-arias-9602771ab/), [GitHub](https://github.com/edsoncardenasarias)
 - ⚡ Lenguaje: Inglés (Básico)
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
 <br>
@@ -99,6 +96,7 @@
 
 <br>
 
+
 ## GitHub Statistics 📊📈📊
 <img src="https://github-readme-stats.vercel.app/api?username=edsoncardenasarias&show_icons=true&locale=es&role=OWNER,COLLABORATOR&theme=default" alt="edsoncardenasarias" style="width: 500px;"/>
 <br>
@@ -118,12 +116,11 @@
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
 
-## Total de Visitas en el Perfil 🔍👨‍💻✔
+## Total Profile Visits 🔍👨‍💻✔
 <img src="https://profile-counter.glitch.me/edsoncardenasarias/count.svg"/>
 
 
-
-## 🎉 ¡Gracias por Visitar!
+## 🎉 Thanks for visiting!
 
 ![Thank You](https://media.giphy.com/media/3o6gbbuLW76jkt8vIc/giphy.gif)
 
