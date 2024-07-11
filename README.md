@@ -1,16 +1,33 @@
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=edsoncardenasarias&color=brightgreen" alt="watching_count" />
-</p>
-
-<h1 align="center"><b>Hi, I'm Edson Cárdenas Arias</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi there, I'm Edson Cárdenas Arias <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
+  <b>I'm a passionate Full Stack Developer from Peru</b>
+  <br>
+  <b>🚀 Exploring the universe of Java, Spring, Angular, and beyond! 🌟</b>
+</p>
+
+<p align="center">
+  <a href="mailto:edson.cardenas@vallegrande.edu.pe">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/edson-c%C3%A1rdenas-arias-1964141b8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://wa.link/k0b0l8">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://github.com/edsoncardenasarias">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.youtube.com/channel/@edsoncardenasarias5087">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </p>
 
-<br>
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=edsoncardenasarias.edsoncardenasarias" alt="Total de Visitas en el Perfil">
+</p>
+
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **Acerca de mí**
 
