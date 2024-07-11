@@ -105,7 +105,8 @@
 
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=edsoncardenasarias.edsoncardenasarias" alt="Total de Visitas en el Perfil">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=edsoncardenasarias.edsoncardenasarias" alt="Total de Visitas en el Perfil" style="max-width:100%;">
 </p>
+
 
 ¡Gracias por visitar mi perfil!
