@@ -4,29 +4,6 @@
 
 <h1 align="center">Hi there, I'm Edson Cárdenas Arias</h1>
 
-<p align="center">
-  <a href="mailto:edson.cardenas@vallegrande.edu.pe">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/edson-c%C3%A1rdenas-arias-1964141b8/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://wa.link/k0b0l8">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="https://github.com/edsoncardenasarias">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.youtube.com/channel/@edsoncardenasarias5087">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=edsoncardenasarias.edsoncardenasarias" alt="Total de Visitas en el Perfil">
-</p>
-
-
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **Acerca de mí**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
@@ -125,5 +102,10 @@
 <a href="https://www.youtube.com/channel/@edsoncardenasarias5087" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
+
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=edsoncardenasarias.edsoncardenasarias" alt="Total de Visitas en el Perfil">
+</p>
 
 ¡Gracias por visitar mi perfil!
