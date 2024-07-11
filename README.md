@@ -4,14 +4,13 @@
 
 <h1 align="center">Hi there, I'm Edson Cárdenas Arias</h1>
 
+<p align="center">
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50">
+</p>
+
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **Acerca de mí**
 
-
-
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
-
-
-
 
 - 🏢 Soy de **Perú** 🟥⬜🟥
 - ⚙️ Yo uso a diario: `.java`, `.spring`, `.angular` principalmente
