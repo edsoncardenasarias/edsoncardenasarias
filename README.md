@@ -14,6 +14,7 @@
 - 🌱 Actualmente estoy aprendiendo Docker, Kubernetes, Jenkins
 - 🌍 Soy principalmente activo dentro de la **Java Community**
 - 👨🏻‍💻 Me gusta aprender todo sobre el **Open Source**
+- 📫 Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/edson-jeanpierre-c%C3%A1rdenas-arias-9602771ab/), [GitHub](https://github.com/edsoncardenasarias)
 - ⚡ Lenguaje: Inglés (Básico)
 
 <br><br>
@@ -122,11 +123,8 @@
 
 
 
-## 🎉 Thanks for visiting!
+## 🎉 ¡Gracias por Visitar!
 
+![Thank You](https://media.giphy.com/media/3o6gbbuLW76jkt8vIc/giphy.gif)
 
-![Thank You](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
-
-
-
-
+---
