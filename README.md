@@ -120,4 +120,5 @@
 ## Total de Visitas en el Perfil 🔍👨‍💻✔
 <img src="https://profile-counter.glitch.me/edsoncardenasarias/count.svg"/>
 
-¡Gracias por visitar mi perfil!
+<h2 align="center">¡Gracias por visitar mi perfil!</h2>
+
